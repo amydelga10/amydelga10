@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on an asteroids game to test my skills 🚀
+I'm currently learning python and interaction with GUI 🐍
+
+How to reach me: adelga10@binghamton.edu
